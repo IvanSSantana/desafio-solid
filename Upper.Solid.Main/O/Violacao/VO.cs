@@ -5,6 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// UNDONE: preciso refatorar completamente, pensando numa melhor violação do que essa!!!
+
 namespace Upper.Solid.O.Violacao
 {
     public class CalculadoraV1
