@@ -35,7 +35,7 @@ namespace Upper.Solid.O.Solucao
             return n1 / n2;
         }
 
-        // Eu posso extender as classes somente adicionando, sem alterar.
+        // Eu posso extender as classes somente adicionando, sem alterar lógicas anteriores.
         public double Potenciação(double n1, double n2)
         {
             return Math.Pow(n1, n2);
@@ -65,6 +65,6 @@ namespace Upper.Solid.O.Solucao
 
     // Nota-se válido, pois para adicionar uma nova funcionalidade a classe Calculadora,
     // apenas extendemos ela, adicionando um novo case e um novo cálculo,
-    // sem precisar alterar a lógica, somente adicionando.
+    // sem precisar alterar a lógica anterior.
     // E ainda corrigimos a violação do primeiro princípio.
 }
