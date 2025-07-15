@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Upper.Solid.L.Solucao
+﻿namespace Upper.Solid.L.Solucao
 {
     public interface ICozinheiro
     {
